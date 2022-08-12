@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    display: flex;
+    width: 200px;
+    color: white;
+    padding: 10px;
+    flex-direction: column;
+    background-color: darkslategrey;
+    border-radius: 15px;
+  }
+  

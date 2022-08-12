@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    min-height: 98vh;
+    color: white;
+    align-items: center;
+    > button {
+      width: 100px;
+      margin: 30px 0px;
+    }
+  }
+  
